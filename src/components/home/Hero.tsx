@@ -24,13 +24,6 @@ export default function Hero() {
           >
             View Items
           </Link>
-
-          <Link
-            href="/login"
-            className="rounded-md border border-neutral-300 px-6 py-3 text-neutral-700 hover:bg-neutral-100"
-          >
-            Admin Login
-          </Link>
         </div>
       </div>
     </section>
